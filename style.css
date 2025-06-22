@@ -7,7 +7,7 @@
     }
     @keyframes fanim {0% {background-position: 0% 0%;}25% {background-position: 100% 100%;} 50% {background-position: 0% 100%;} 75% {background-position: 50% 50%;} 100% {background-position: 0% 0%;}}
     body{background-color:#101010;font-family:var(--gaya-font);padding: 25px;-webkit-user-select: none; -ms-user-select: none; user-select: none;} a{text-decoration:none;}
-    body::before{bottom:25px;right:25px;content:"\00A9  Instagram | @aoudumber.dev";padding:8px;border-radius:12px;background:black;color:white;opacity:.7;font-size:12px;position:fixed;z-index:999}
+    body::before{bottom:25px;right:25px;content:"\00A9  Instagram | @its_me_invisible_09";padding:8px;border-radius:12px;background:black;color:white;opacity:.7;font-size:12px;position:fixed;z-index:999}
     #bodyblur{display:block;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.4);-webkit-backdrop-filter:blur(2px); backdrop-filter:blur(2px);transition:all 1s ease;}
     #bodyblur img{opacity:.1;width: 100%;height: 100%;}
     
